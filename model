@@ -1,0 +1,35 @@
+{
+  "playurl" : "https://play.google.com/store/apps/details?id=com.facebook.lite",
+  "messages" : [
+    {
+      "title" : "Free Feir",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",
+      "screenimg" : "https://staticg.sportskeeda.com/editor/2020/06/1d27a-15925520527800-800.jpg"
+    },
+    {
+      "title" : "Fast Delivery",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",
+      "screenimg" : "1"
+    },
+    {
+      "title" : "Easy Payment",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",
+      "screenimg" : "2"
+    },
+    {
+      "title" : "Fresh Food",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",
+      "screenimg" : "0"
+    },
+    {
+      "title" : "Fast Delivery",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",
+      "screenimg" : "1"
+    },
+    {
+      "title" : "Easy Payment",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, consectetur  consectetur adipiscing elit",
+      "screenimg" : "https://i.stack.imgur.com/XeKat.png"
+    }
+  ]
+}
